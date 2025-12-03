@@ -1,0 +1,14 @@
+# Arquivos compilados
+/out/
+
+# Configurações do IntelliJ (opcional, mas recomendado não enviar se for trabalhar em equipe)
+.idea/
+*.iml
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Nota: Como você baixou as bibliotecas manualmente na pasta /lib,
+# VAMOS manter a pasta /lib fora dessa lista para que seu professor
+# ou você consigam baixar e rodar o projeto em outro PC facilmente.
